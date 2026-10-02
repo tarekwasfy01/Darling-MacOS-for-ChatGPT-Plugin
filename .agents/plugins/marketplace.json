@@ -1,0 +1,20 @@
+{
+  "name": "darling-marketplace",
+  "interface": {
+    "displayName": "Darling Plugins"
+  },
+  "plugins": [
+    {
+      "name": "darling-runtime",
+      "source": {
+        "source": "local",
+        "path": "./plugins/darling-runtime"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
