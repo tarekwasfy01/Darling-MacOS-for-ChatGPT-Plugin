@@ -1,0 +1,31 @@
+{
+  "name": "Darling Runtime",
+  "slug": "darling-runtime",
+  "version": "0.1.0",
+  "type": "skill-only-plugin",
+  "category": "Developer Tools",
+  "short_description": "Run compatible macOS CLI tools on Linux.",
+  "publisher": {
+    "name": "Tarek Wasfy",
+    "contact_email": "tarekwasfy01@gmail.com"
+  },
+  "compatibility": {
+    "host_os": "Ubuntu 24.04 LTS",
+    "architecture": "amd64/x86_64",
+    "focus": [
+      "macOS CLI tools",
+      "Mach-O binaries",
+      "compilers",
+      "developer workflows"
+    ]
+  },
+  "urls": {
+    "website": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/",
+    "support": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/",
+    "privacy": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/privacy.html",
+    "terms": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/terms.html",
+    "source_repository": "https://github.com/tarekwasfy01/Darling-MacOS-for-ChatGPT-Plugin"
+  },
+  "license_note": "Bundled third-party components remain subject to their respective licenses and notices.",
+  "affiliation_notice": "Independent package; not affiliated with or endorsed by Apple Inc."
+}
