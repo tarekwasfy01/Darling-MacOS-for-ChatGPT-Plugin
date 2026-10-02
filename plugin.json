@@ -8,19 +8,19 @@
       "interface": {
         "displayName": "Darling Runtime",
         "shortDescription": "Run macOS CLI tools",
-        "longDescription": "A skills-only package for Darling on Ubuntu 24.04 amd64. It includes selected official Darling binary packages, installation guidance, license texts, provenance, hashes, and source-compliance instructions. Intended primarily for macOS command-line tools and compiler workflows on compatible Linux hosts.",
+        "longDescription": "A skills-only package for Darling on Ubuntu 24.04 amd64. It includes selected Darling binary packages, installation guidance, license texts, provenance, hashes, and source-compliance instructions. Intended primarily for macOS command-line tools and compiler workflows on compatible Linux hosts.",
         "category": "Developer Tools",
         "defaultPrompt": [
           "Set up the bundled Darling runtime for a macOS CLI tool.",
           "Help me run this Mach-O compiler with Darling.",
           "Check which bundled Darling components this CLI program needs."
         ],
+        "logo": "assets/darling-icon.png",
+        "composerIcon": "assets/darling-icon.png",
         "websiteURL": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/",
         "supportURL": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/",
         "privacyPolicyURL": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/privacy.html",
-        "termsOfServiceURL": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/terms.html",
-        "logo": "assets/darling-icon.png",
-        "composerIcon": "assets/darling-icon.png"
+        "termsOfServiceURL": "https://tarekwasfy01.github.io/Darling-MacOS-for-ChatGPT-Plugin/terms.html"
       }
     }
   }
